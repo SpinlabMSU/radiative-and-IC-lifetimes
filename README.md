@@ -6,7 +6,7 @@ The first version of this code, `plot-th-lifetimes.ipynb`, was written by JTS.
 
 A new version of this code (to be written soon by MJT) will extend functionality to include "exclusion plots", which will show the overlap between areas of the energy-lifetime phase space and possible experimental approaches (including Pa-229 production methods and techniques for potentially detecting a low-lying state).
 
-Description of original code written by JTS in elog:Pa22/203, copied verbatim below:
+Description of original code written by JTS in [elog:Pa22/203](https://elog.frib.msu.edu/Pa229/203), copied verbatim below:
 
 > Based on a study of these refefences:
 > 
